@@ -1,0 +1,88 @@
+17760.72   1          33         
+0          norvege    0          0          0          
+1          norvege    0          0          0          
+2          norvege    0          0          0          
+3          norvege    0          0          0          
+4          norvege    0          0          0          
+5          norvege    0          0          0          
+6          italie     0          0          0          
+7          italie     0          0          0          
+8          italie     0          0          0          
+9          italie     0          0          0          
+10         italie     0          0          0          
+11         italie     0          0          0          
+12         italie     0          0          0          
+13         france     0          0          0          
+14         france     0          0          0          
+15         france     0          0          0          
+16         espagne    0          0          0          
+17         espagne    0          0          0          
+18         espagne    0          0          0          
+19         espagne    0          0          0          
+20         espagne    0          0          0          
+21         espagne    0          0          0          
+22         espagne    0          0          0          
+23         espagne    0          0          0          
+24         espagne    0          0          0          
+25         espagne    0          0          0          
+26         espagne    0          0          0          
+16         suede      0          60         1          
+17         suede      0          60         1          
+18         suede      0          60         1          
+19         suede      0          60         1          
+20         suede      0          60         1          
+21         suede      0          60         1          
+27         uk         0          0          0          
+27         uk         50         0          0          
+28         uk         0          0          0          
+28         uk         50         0          0          
+29         uk         0          0          0          
+29         allemagne  50         0          0          
+30         allemagne  0          0          0          
+30         allemagne  50         0          0          
+22         finlande   0          60         1          
+23         finlande   0          60         1          
+24         portugal   0          60         1          
+24         portugal   50         60         1          
+25         portugal   0          60         1          
+25         portugal   50         60         1          
+26         portugal   0          60         1          
+26         portugal   50         60         1          
+29         portugal   50         60         1          
+30         portugal   0          60         1          
+30         portugal   50         60         1          
+31         portugal   0          0          0          
+31         portugal   0          50         0          
+31         irelande   40         0          0          
+31         irelande   40         40         0          
+32         irelande   0          0          0          
+0          icelande   70         0          1          
+0          benelux    70         40         0          
+0          benelux    70         70         0          
+1          benelux    70         0          0          
+1          benelux    70         30         0          
+1          benelux    70         60         0          
+2          benelux    70         0          0          
+2          benelux    70         30         0          
+2          benelux    70         60         0          
+3          benelux    70         0          0          
+3          benelux    70         30         0          
+3          benelux    70         60         0          
+4          suisse     70         0          0          
+4          suisse     70         20         0          
+4          suisse     70         40         0          
+4          suisse     70         60         0          
+4          suisse     70         80         0          
+allemagne  0  171   
+espagne    0  18    3  0     2  9     1  1     
+france     0  3     1  40    
+icelande   0  94    
+irelande   0  66    
+italie     1  19    0  148   2  9     
+norvege    6  2     2  3     13 1     0  1     5  0     9  15    3  1     7  8     11 2     1  3     4  1     12 3     8  0     10 151   
+suede      1  173   0  0     2  1     
+suisse     0  17    
+uk         3  3     6  187   13 2     4  3     0  3     7  5     2  2     9  0     10 3     12 4     5  1     1  6     11 21    8  2     
+benelux    0  5     1  28    2  36    
+finlande   0  9     1  6     
+portugal   0  45    

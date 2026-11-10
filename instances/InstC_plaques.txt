@@ -1,0 +1,16 @@
+0.20
+allemagne 3
+espagne   11
+france    3
+icelande  1
+irelande  3
+italie    7
+norvege   6
+suede     6
+suisse    5
+uk        5
+
+benelux   11
+finlande  2
+portugal  11
+

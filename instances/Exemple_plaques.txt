@@ -1,0 +1,4 @@
+0.45
+bateau   9
+etoile   23
+

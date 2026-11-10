@@ -1,0 +1,31 @@
+Checker lance sur l'instance instances/InstA le 31/03/2026 a 02:16
+Probleme resolu en  2.41 secondes
+
+-------- STATS INSTANCE
+Nombre de metaux : 5
+Nombre d'alliages : 4
+Nombre de fournisseurs : 1
+Nombre de plaques : 4
+Nombre total d'exmplaires de plaque : 39
+
+-------- STATS DE VOTRE SOLUTION
+Nombre de toles : 1
+Cout annonce : 2373.49
+
+-------- VERIFICATION DE VOTRE SOLUTION
+Evaluation correcte : NON
+Solution realisable : OUI
+
+-------- DETAIL DU COUT REEL
+Cout des trajets de laser :     473.44
+Cout des toles            :    1899.97
+     dont achat de metaux :     945.98
+       et fonte/laminage  :     953.99
+
+-------- SYNTHESE DES PROBLEMES
+Verification du cout reel : 0 erreurs, 1 warnings
+
+-------- DETAIL DES PROBLEMES
+
+Verification du cout reel :
+* WARNING : Le cout reel est de 2373.41 au lieu de 2373.49 annonce

@@ -1,0 +1,21 @@
+Checker lance sur l'instance instances/InstD le 03/04/2026 a 22:15
+Probleme resolu en  2.44 secondes
+
+-------- STATS INSTANCE
+Nombre de metaux : 2
+Nombre d'alliages : 0
+Nombre de fournisseurs : 3
+Nombre de plaques : 9
+Nombre total d'exmplaires de plaque : 108
+
+-------- STATS DE VOTRE SOLUTION
+Nombre de toles : 9
+Cout annonce : 11277.56
+
+-------- VERIFICATION DE VOTRE SOLUTION
+Evaluation correcte : OUI
+Solution realisable : OUI
+
+-------- DETAIL DU COUT REEL
+Cout des trajets de laser :    3627.56
+Cout des toles            :    7650.00

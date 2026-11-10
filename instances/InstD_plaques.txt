@@ -1,0 +1,10 @@
+0.25
+chat    5
+chaton  14
+poisson 16
+tigre1  17
+tigre2  7
+zebre1  4
+zebre2  3
+lion    20
+singe   22

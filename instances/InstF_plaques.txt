@@ -1,0 +1,13 @@
+0.20
+plaque-3-3   9
+plaque-4-4   5
+plaque-5-5   3
+plaque-6-6   3
+plaque-12-4  4
+plaque-7-7   2
+plaque-5-10  6
+plaque-10-5  5
+plaque-8-8   2
+plaque-7-10  2
+plaque-9-9   1
+

@@ -1,0 +1,36 @@
+1871.47    0          3          
+1.275      0          19.215     13.675     7          
+0          bateau     0          0          0          
+0          bateau     0          50         1          
+0          bateau     30         0          0          
+0          bateau     50         50         1          
+0          bateau     60         0          0          
+0          bateau     90         0          0          
+1          bateau     0          0          0          
+1          bateau     0          50         1          
+1          bateau     30         0          0          
+0          etoile     100        50         0          
+1          etoile     50         50         0          
+1          etoile     60         0          0          
+1          etoile     60         18         0          
+1          etoile     68         36         0          
+1          etoile     68         54         0          
+1          etoile     78         0          0          
+1          etoile     78         18         0          
+1          etoile     96         0          0          
+1          etoile     114        0          0          
+1          etoile     96         18         0          
+1          etoile     114        18         0          
+1          etoile     86         36         0          
+1          etoile     104        36         0          
+1          etoile     86         54         0          
+1          etoile     104        54         0          
+2          etoile     0          0          0          
+2          etoile     0          18         0          
+2          etoile     0          36         0          
+2          etoile     0          54         0          
+2          etoile     18         0          0          
+2          etoile     18         18         0          
+2          etoile     18         36         0          
+bateau     0  1     1  0     3  2     2  0     
+etoile     0  4     

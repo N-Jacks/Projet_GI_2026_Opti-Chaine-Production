@@ -1,0 +1,11 @@
+0.50
+elan        5
+cheval     10
+chien      11
+gorille     2
+kangourou   8
+lapin      20
+lezard      2
+puma       18
+rhinoceros  3
+

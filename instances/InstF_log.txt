@@ -1,0 +1,23 @@
+Checker lance sur l'instance instances/InstF le 30/03/2026 a 17:17
+Probleme resolu en  5.55 secondes
+
+-------- STATS INSTANCE
+Nombre de metaux : 3
+Nombre d'alliages : 5
+Nombre de fournisseurs : 5
+Nombre de plaques : 11
+Nombre total d'exmplaires de plaque : 42
+
+-------- STATS DE VOTRE SOLUTION
+Nombre de toles : 8
+Cout annonce : 9671.37
+
+-------- VERIFICATION DE VOTRE SOLUTION
+Evaluation correcte : OUI
+Solution realisable : OUI
+
+-------- DETAIL DU COUT REEL
+Cout des trajets de laser :    4871.37
+Cout des toles            :    4800.01
+     dont achat de metaux :       0.00
+       et fonte/laminage  :    4800.01
